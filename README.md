@@ -23,6 +23,8 @@ The repository is organized as follows:
     └── GPT-based_model/
         ├── pepGPT_model.py                 # GPT-based variant architecture (includes RNN/LSTM baselines)
         └── pepGPT_utils.py                 # Utilities for GPT variant
+│   ├── data/
+│   │   ├── peptide_data_labels_20250416.csv          # Curated datasets, positive data was used for training
 ```
 
 ## Included Content
